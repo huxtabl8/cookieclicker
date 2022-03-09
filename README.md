@@ -1,4 +1,4 @@
-# Cookie Clicker clone
+# Cookie Clicker mirror
 
 <img src="img/perfectCookie.png" width="128">
 
